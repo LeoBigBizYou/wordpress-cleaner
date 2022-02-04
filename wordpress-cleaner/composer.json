@@ -1,0 +1,17 @@
+{
+    "name": "khaldalim/wordpress-cleaner",
+    "description": "Supprime les articles ainsi que les commentaires de base du wordpress + widgets inutiles du dashboard",
+    "type": "wordpress-plugin",
+    "autoload": {
+        "psr-4": {
+            "Khaldalim\\WordpressCleaner\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Khaldalim",
+            "email": "demetleo@hotmail.fr"
+        }
+    ],
+    "require": {}
+}
